@@ -1,4 +1,4 @@
-package com.javatechie.springreactivemongocrud;
+package com.javatechie.reactive;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
